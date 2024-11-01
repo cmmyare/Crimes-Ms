@@ -10,6 +10,7 @@ const IncidentDetail = () => {
 
       <DashboardCard title="Incidents Details">
         <Typography>This is details about the Incidents</Typography>
+        
       </DashboardCard>
     </PageContainer>
   );

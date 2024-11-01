@@ -68,7 +68,7 @@ const Menuitems = [
   },
   {
     id: uniqueId(),
-    title: "Incident management",
+    title: "Admin Dashboard",
     icon: IconMoodHappy,
     href: "/admin-Page",
   },
